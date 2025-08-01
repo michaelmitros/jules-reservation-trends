@@ -7,7 +7,7 @@ This project analyzes reservation patterns for Jules@Market using OpenTable data
 - Analyze patterns to help recommend adjustments to staffing or promotions
 
 ## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, NumPy)
 - Tableau
 - Jupyter Notebook
 

@@ -2,7 +2,7 @@
 
 This project analyzes reservation patterns for Jules@Market using OpenTable data, with the goal of identifying underutilized times and improving restaurant efficiency.
 
-## 🔍 Objectives
+##  Objectives
 - Identify slow reservation periods by day and season
 - Analyze patterns to help recommend adjustments to staffing or promotions
 
